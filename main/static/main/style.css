@@ -16,8 +16,12 @@ button, select, input[type=text],button {
 }
 ul{
   list-style-type: none;
+<<<<<<< HEAD
   display: flex;
   padding-left: 570px;
+=======
+  display: inline-flex;
+>>>>>>> db87fa7 (Updated)
 }
 .Diet{
   width: 300px;
